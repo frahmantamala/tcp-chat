@@ -7,5 +7,9 @@
 - `/quit` - disconnects from the chat server.
 
 # Run the chat
-- telnet `host:port`
+- go build
+- ./tcp-chat
+
+
+- telnet `host port`
 - do the commands
